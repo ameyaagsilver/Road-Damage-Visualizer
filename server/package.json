@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Visualizing the surface road damages by fetching them from a local/cloud database onto a map.",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "devStart": "nodemon server.js"
   },
